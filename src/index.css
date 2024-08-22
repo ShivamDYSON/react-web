@@ -1,0 +1,23 @@
+/* Import the Sacramento font first */
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&family=Sacramento&display=swap');
+
+/* Tailwind CSS imports and other styles */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Additional custom styles */
+.sacramento-regular {
+  font-family: "Sacramento", cursive;
+  font-weight: 800;
+  font-size: 4.5rem;
+  font-style: normal;
+}
+
+.roboto-mono-<uniquifier> {
+  font-family: "Roboto Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: cursive;
+  font-size: 5rem;
+}
