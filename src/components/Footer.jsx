@@ -55,7 +55,7 @@ const Footer = () => {
           <div className="flex-1 mb-4 md:mb-0">
             <div className="text-2xl font-bold italic">
               <img
-                src="public/adobe icon.jpg"
+                src="public/adobeicon.jpg"
                 alt="Adobe Icon"
                 className="h-10 w-10 md:h-12 md:w-12 object-contain mr-4"
               />

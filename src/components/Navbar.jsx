@@ -44,7 +44,7 @@ const Navbar = () => {
         <div className="container py-2 flex justify-between items-center px-8 md:px-16 lg:px-24">
           <div className="text-2xl font-bold italic">
             <img
-              src="public/adobe icon.jpg"
+              src="public/adobeicon.jpg"
               alt="Adobe Icon"
               className="h-10 w-10 md:h-12 md:w-12 object-contain mr-4"
             />
